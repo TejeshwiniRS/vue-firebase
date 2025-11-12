@@ -1,2 +1,3 @@
-# Interactive_web
-Interactive Web using Vue.js
+# vue-firebase
+Interactive Web using Vue.js and Firebase
+
